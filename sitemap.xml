@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://pedil.cephr.net/</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/home</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/about-us</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/research</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/publications</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/get-involved</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/contact-us</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/apps</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pedil.cephr.net/publications_1</loc>
+  <lastmod>2024-06-20T17:00:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
