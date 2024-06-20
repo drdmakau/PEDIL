@@ -1,2 +1,0 @@
-# PEDIL
-Lab sitemap
